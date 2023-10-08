@@ -4,9 +4,9 @@ import Button from "./Button";
 
 const CardDeal = () => (
   <section className={layout.section}>
-    <div className={layout.sectionInfo}>
+    <div className={layout.sectionInfo}>  
       <h2 className={styles.heading2}>
-        Find a better card deal <br className="sm:block hidden" /> in few easy
+        Nos enfocamos en lo que nos pidas <br className="sm:block hidden" /> in few easy
         steps.
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
