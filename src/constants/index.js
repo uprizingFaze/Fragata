@@ -28,7 +28,7 @@ export const features = [{
         id: "feature-2",
         icon: star,
         title: "Compromiso",
-        content: "We take proactive steps make sure your information and transactions are secure.",
+        content: "Ayudar a nuestros clientes a cumplir con los requisitos normativos.",
     },
     {
         id: "feature-3",
